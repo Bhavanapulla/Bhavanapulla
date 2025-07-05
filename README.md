@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bhavanapulla
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - pullabhavana123@gmail.com
