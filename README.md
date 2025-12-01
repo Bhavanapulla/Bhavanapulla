@@ -30,21 +30,11 @@
   <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Code-Node.js-43853D?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Code-Express.js-black?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
 </p>
 
 ---
 
-### 🚀 My Featured Projects
-
-| Project | Description | Tech Used |
-|----------|--------------|------------|
-| ☕ [**Café Curator**](https://github.com/Bhavanapulla/Cafe-Curator) | Finds and saves best cafés near you using Google Maps API | HTML, CSS, JS, Google Places API |
-| 🏥 [**Hospital Finder App**](#) | Helps users find nearest hospitals with live location | React, Node.js, MongoDB, Express |
-| 🎶 [**Album Finder**](#) | Fetches albums using Spotify API | JavaScript, REST APIs |
-| 🌤️ [**Weather App**](#) | Displays real-time weather for any city | React, OpenWeather API |
 
 ---
 
