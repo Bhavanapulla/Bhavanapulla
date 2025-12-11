@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavana Pulla</h1>
-<h3 align="center">💻 A Passionate Full-Stack Developer from Hyderabad, India 🚀</h3>
+<h3 align="center">💻 A Passionate Full-Stack Developer  🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhavanapulla&label=Profile%20Views&color=0e75b6&style=flat" alt="Bhavanapulla" />
